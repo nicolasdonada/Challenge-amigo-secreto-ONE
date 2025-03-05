@@ -1,11 +1,5 @@
 # Challenge amigo secreto ONE
 
-A funcionalidade deste projeto é conseguir adicionar vários amigos e realizar um sorteio entre eles para decidir quem será o amigo secreto.
-![alt text](img/image.png)
-
-Temos também algumas validações no momento de adicionar o amigo.
-![alt text](img/val.png)![alt text](img/val1.png)
-
 ### Tecnologias utilizadas para realizar o projeto.
 
 <div align="left">
@@ -15,3 +9,9 @@ Temos também algumas validações no momento de adicionar o amigo.
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 
 </div>
+
+A funcionalidade deste projeto é conseguir adicionar vários amigos e realizar um sorteio entre eles para decidir quem será o amigo secreto.
+![alt text](img/image.png)
+
+Temos também algumas validações no momento de adicionar o amigo.
+![alt text](img/val.png)![alt text](img/val1.png)
